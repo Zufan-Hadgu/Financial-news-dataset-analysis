@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+textblob
+scikit-learn
+yfinance
+pynance
+ta-lib
+python-dotenv
+jupyter
+nltk
+notebook
